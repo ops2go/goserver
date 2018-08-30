@@ -7,6 +7,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
+	"github.com/ops2go/goserver/todo"
 )
 
 // GetTodoListHandler returns all current todo items
